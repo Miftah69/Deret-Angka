@@ -1,0 +1,2 @@
+# Deret-Angka
+Buat aplikasi yang terdiri dari 2 inputan angka dan sebuah listview.Listview untuk menampilkan deret angka yang bisa dibagi 3 atau 4.Jika ada angka yang bisa dibagi 3 dan bisa juga dibagi angka 4, maka angka tersebut diganti menjadi string "yeay!". Kedua inputan angka digunakan untuk memasukan batas awal dan batas akhir deret angka tersebut.Contoh, jika inputan pertama dimasukan angka 1, kemudian inputan kedua dimasukan angka 15.Maka hasilnya : 3, 4, 6, 8, 9, yeay!, 15
